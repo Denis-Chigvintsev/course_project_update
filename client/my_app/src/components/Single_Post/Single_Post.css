@@ -1,0 +1,19 @@
+.Single_post_1 {
+  position: relative;
+  font-size: 10px;
+  color: black;
+  text-align: left;
+}
+
+.Single_post_button {
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 10px;
+}
+.Single_Post_img {
+  width: 50px;
+  height: 50px;
+
+  object-fit: contain;
+}

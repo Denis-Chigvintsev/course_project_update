@@ -1,0 +1,37 @@
+.AddPost_form {
+  background-color: white;
+  width: 320px;
+  color: blue;
+  padding: 10px;
+  font-size: 10px;
+  border-radius: 5px;
+}
+.AddPost_input {
+  margin: 15px;
+  margin-left: 30px;
+}
+
+.AddPost_input2 {
+  margin: 15px;
+}
+
+.AddPost_inner_form {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+.AddPost_button {
+  margin: 0 auto;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.AddPostg_lable {
+  display: block;
+}
+.AddPost_flex {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
